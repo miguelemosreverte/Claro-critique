@@ -1,0 +1,75 @@
+<style>
+
+  * {
+      margin: 10px;
+  }
+
+  .single {
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 95vw;
+  }
+  .single .background {
+    position: relative;
+    top: 0;
+    left: 0;
+    min-width: 200%;
+  }
+  .single .foreground {
+    position: absolute;
+    top: 0;
+    left: 0;
+    min-width: 80%;
+  }
+
+
+  .side_by_side {
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 100vw;
+  }
+  .side_by_side .background {
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 50vw;
+  }
+  .side_by_side .foreground {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 50vw;
+  }
+  .side_by_side .right {
+    position: absolute;
+    top: 0;
+    left: 50vw;
+    width: 50vw;
+  }
+
+</style>
+
+<img  src="instructions.png" />
+
+<img  src="the problem.png" />
+
+
+
+<div class="side_by_side">
+  <img class="background" src="the proposed solution.svg">
+  <img class="foreground" src="no_background.png" />
+
+  <img class="right" src="base.png" />
+</div>
+
+
+<img  src="base.png" />
+
+
+
+<div class="single">
+  <img class="background" src="the proposed solution.svg">
+  <img class="foreground" src="no_background.png" />
+</div>

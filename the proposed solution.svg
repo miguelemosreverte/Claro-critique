@@ -1,0 +1,76 @@
+<svg width="580" height="400" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ 
+-->
+ <defs>
+  <filter id="svg_6_blur">
+   <feGaussianBlur stdDeviation="0.7" in="SourceGraphic"/>
+  </filter>
+ </defs>
+ <g>
+  <title>background</title>
+  <rect fill="#bc0000" id="canvas_background" height="402" width="582" 
+y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <line filter="url(#svg_6_blur)" stroke-linecap="undefined" 
+stroke-linejoin="undefined" id="svg_6" y2="-16.5" x2="475.75" y1="408.5" 
+x1="13.75" opacity="0.5" stroke-width="27.5" stroke="#000" fill="none"/>
+  <path id="svg_13" d="m118.5,351.4375" opacity="0.5" 
+stroke-opacity="null" stroke-width="27.5" stroke="#000" fill="none"/>
+  <path id="svg_14" d="m-61.5,347.4375" opacity="0.5" 
+stroke-opacity="null" stroke-width="27.5" stroke="#000" fill="none"/>
+  <line stroke-dasharray="2,2" filter="url(#svg_6_blur)" 
+stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_15" 
+y2="-12.5" x2="542.75" y1="412.5" x1="80.75" opacity="0.5" 
+stroke-width="27.5" stroke="#000" fill="none"/>
+  <line stroke-dasharray="2,2" filter="url(#svg_6_blur)" 
+stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_16" 
+y2="-14.5" x2="414.75" y1="410.5" x1="-47.25" opacity="0.5" 
+stroke-width="27.5" stroke="#000" fill="none"/>
+  <line stroke-dasharray="5,2,2,2,2,2" filter="url(#svg_6_blur)" 
+stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_17" 
+y2="-27.5" x2="366.75" y1="397.5" x1="-95.25" opacity="0.5" 
+stroke-width="27.5" stroke="#000" fill="none"/>
+  <line stroke-dasharray="5,2,2,2,2,2" filter="url(#svg_6_blur)" 
+stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_18" 
+y2="-48.5" x2="330.75" y1="376.5" x1="-131.25" opacity="0.5" 
+stroke-width="27.5" stroke="#000" fill="none"/>
+  <line stroke-dasharray="5,2,2,2,2,2" filter="url(#svg_6_blur)" 
+stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_19" 
+y2="-62.5" x2="297.75" y1="362.5" x1="-164.25" opacity="0.5" 
+stroke-width="27.5" stroke="#000" fill="none"/>
+  <line stroke-dasharray="5,2,2,2,2,2" filter="url(#svg_6_blur)" 
+stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_20" 
+y2="-82.5" x2="272.75" y1="342.5" x1="-189.25" opacity="0.5" 
+stroke-width="27.5" stroke="#000" fill="none"/>
+  <line stroke-dasharray="2,2" filter="url(#svg_6_blur)" 
+stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_22" 
+y2="-125.5" x2="259.75" y1="299.5" x1="-202.25" opacity="0.5" 
+stroke-width="27.5" stroke="#000" fill="none"/>
+  <line stroke-dasharray="2,2" filter="url(#svg_6_blur)" 
+stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_25" 
+y2="-163.5" x2="216.75" y1="261.5" x1="-245.25" opacity="0.5" 
+stroke-width="27.5" stroke="#000" fill="none"/>
+  <line stroke-dasharray="2,2" filter="url(#svg_6_blur)" 
+stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_27" 
+y2="36.5" x2="597.75" y1="461.5" x1="135.75" opacity="0.5" 
+stroke-width="27.5" stroke="#000" fill="none"/>
+  <line stroke-dasharray="2,2" filter="url(#svg_6_blur)" 
+stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_28" 
+y2="91.5" x2="651.75" y1="516.5" x1="189.75" opacity="0.5" 
+stroke-width="27.5" stroke="#000" fill="none"/>
+  <line stroke-dasharray="2,2" filter="url(#svg_6_blur)" 
+stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_29" 
+y2="123.5" x2="696.75" y1="548.5" x1="234.75" opacity="0.5" 
+stroke-width="27.5" stroke="#000" fill="none"/>
+  <line filter="url(#svg_6_blur)" stroke-linecap="undefined" 
+stroke-linejoin="undefined" id="svg_30" y2="143.5" x2="735.75" 
+y1="568.5" x1="273.75" opacity="0.5" stroke-width="27.5" stroke="#000" 
+fill="none"/>
+  <line filter="url(#svg_6_blur)" stroke-linecap="undefined" 
+stroke-linejoin="undefined" id="svg_31" y2="185.5" x2="747.75" 
+y1="610.5" x1="285.75" opacity="0.5" stroke-width="27.5" stroke="#000" 
+fill="none"/>
+ </g>
+</svg>
